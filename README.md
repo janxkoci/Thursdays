@@ -1,7 +1,7 @@
 # Thursdays with bioinformatics
 > Weekly meetings of computational biologists at the University of Ostrava
 
-Example data shamelessly borrowed from these beautiful projects:
+Example data shamelessly ~~stolen~~ borrowed from these beautiful projects:
 
 - [Speciation genomics](https://github.com/speciationgenomics)
 - [easySFS](https://github.com/isaacovercast/easySFS)
